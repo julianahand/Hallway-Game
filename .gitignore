@@ -7,7 +7,7 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/[Ll]ogs/
+/Hallway Game/[Ll]ogs/
 /[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
@@ -58,3 +58,27 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Hallway Game/
+Logs/
+*.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe10.log
+*.log
+*.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe7.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe6.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+*.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe10.log
+Hallway Game/Logs/shadercompiler-AssetImportWorker0.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe10.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe11.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+Hallway Game/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+*.log
+*.log
+*.log
